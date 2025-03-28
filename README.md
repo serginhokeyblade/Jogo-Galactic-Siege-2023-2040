@@ -1,21 +1,41 @@
-![alt text](https://github.com/borinvini/MountainShooter/blob/main/asset/Player1.png?raw=true "Mountain Shooter") Mountain Shooter ![alt text](https://github.com/borinvini/MountainShooter/blob/main/asset/Player1.png?raw=true "Mountain Shooter")
+# **Galactic Siege: 2023–2040**
+
+Galactic Siege: 2023–2040 é um jogo arcade 2D cheio de ação, onde você entra na pele de pilotos de elite em meio à guerra espacial mais intensa das últimas eras. De 2023 a 2040, a galáxia mergulhou em caos — e agora, a resistência precisa de você!
+
 ===============
  
 
-### About
+### Sobre
 
-Mountain Shooter is a 2D arcade game developed with Pygame. The game has 2 levels and each level level end with a timeout event.
-Can be played coop (2 players).
-Score is saved in database (SQLite3))
+Você será parte da última frente de batalha contra uma invasão alienígena que se espalha por sistemas estelares inteiros. Prepare-se para uma jornada entre planetas devastados, campos de asteroides armadilhados e estações espaciais corrompidas por inteligência artificial.
 
+✅ Modo Single Player e Coop (2 Jogadores)
 
-### Feel free if you want to contribute.
-
+🚀 2 níveis intensos (e mais a caminho!)
 
 
-GAME MENU
+💥 # **Controles padrão**
 
-![Menu](https://github.com/user-attachments/assets/c9524f59-6ebd-443a-82c0-53b63eb2128f)
+**Player 1:**
+
+Mover: Setas direcionais
+
+Atirar: Espaço
+
+Player 2:
+
+Mover: W, A, S, D
+
+Atirar: Ctrl Esquerdo
+
+
+### Este é um projeto de código aberto. Fique à vontade para estudar, modificar ou contribuir!
+
+
+
+# **MENU GAME**
+
+![Menu](https://github.com/serginhokeyblade/Jogo-Galactic-Siege-2023-2040/blob/master/asset/MenuBg.png?raw=true)
 
 GAME LEVEL 1
 
