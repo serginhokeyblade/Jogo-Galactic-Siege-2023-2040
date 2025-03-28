@@ -1,4 +1,5 @@
 # **Galactic Siege: 2023–2040**
+![player](https://github.com/serginhokeyblade/Jogo-Galactic-Siege-2023-2040/blob/master/asset/Player1.png?raw=true)
 
 Galactic Siege: 2023–2040 é um jogo arcade 2D cheio de ação, onde você entra na pele de pilotos de elite em meio à guerra espacial mais intensa das últimas eras. De 2023 a 2040, a galáxia mergulhou em caos — e agora, a resistência precisa de você!
 
@@ -35,9 +36,9 @@ Atirar: Ctrl Esquerdo
 
 # **MENU GAME**
 
-![Menu](https://github.com/serginhokeyblade/Jogo-Galactic-Siege-2023-2040/blob/master/asset/MenuBg.png?raw=true)
+![Menu](https://github.com/serginhokeyblade/Jogo-Galactic-Siege-2023-2040/blob/master/imagens%20jogos%20e%20Menu%20git/Menu%20git.jpeg?raw=true)
 
 GAME LEVEL 1
 
-![Level1](https://github.com/user-attachments/assets/8af63514-178d-44c9-9eb0-299e0aee0933)
+![Level1](https://github.com/serginhokeyblade/Jogo-Galactic-Siege-2023-2040/blob/master/imagens%20jogos%20e%20Menu%20git/Jogo%20Git.jpeg?raw=true)
 
