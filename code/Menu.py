@@ -19,7 +19,7 @@ class Menu:
         pygame.mixer_music.load('./asset/Menu.mp3')
         pygame.mixer_music.play(-1)
         while True:
-            # DRAW IMAGES
+            # DESENHA AS IMAGENS
             self.window.blit(source=self.surf, dest=self.rect)
             self.menu_text(50, "Galactic Siege", (0, 0, 0), ((WIN_WIDTH / 2), 70))
             self.menu_text(50, "2030-2040", (0, 0, 0), ((WIN_WIDTH / 2), 120))
@@ -30,18 +30,18 @@ class Menu:
                     self.menu_text(20, MENU_OPTION[i], C_WHITE, ((WIN_WIDTH / 2), 200 + 25 * i))
             pygame.display.flip()
 
-            # Check for all events
+            # Verifica todos os eventos:
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
-                    pygame.quit()  # Close Window
-                    quit()  # end pygame
+                    pygame.quit()  # Fecha a janela
+                    quit()  # finaliza o pygame
                 if event.type == pygame.KEYDOWN:
-                    if event.key == pygame.K_DOWN:  # DOWN KEY
+                    if event.key == pygame.K_DOWN:  # TECLA PARA BAIXO
                         if menu_option < len(MENU_OPTION) - 1:
                             menu_option += 1
                         else:
                             menu_option = 0
-                    if event.key == pygame.K_UP:  # UP KEY
+                    if event.key == pygame.K_UP:  # TECLA PARA CIMA
                         if menu_option > 0:
                             menu_option -= 1
                         else:

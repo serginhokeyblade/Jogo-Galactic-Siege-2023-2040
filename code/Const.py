@@ -1,6 +1,6 @@
 # C
 import pygame
-
+#cores
 C_ORANGE = (255, 128, 0)
 C_YELLOW = (255, 255, 128)
 C_WHITE = (255, 255, 255)
@@ -8,8 +8,8 @@ C_GREEN = (0, 128, 0)
 C_CYAN = (0, 128, 128)
 
 # E
-EVENT_ENEMY = pygame.USEREVENT + 1
-EVENT_TIMEOUT = pygame.USEREVENT + 2
+EVENT_ENEMY = pygame.USEREVENT + 1 #eventos para inimigos
+EVENT_TIMEOUT = pygame.USEREVENT + 2 #evento de tempo esgotado
 ENTITY_SPEED = {
     'Level1Bg0': 0,
     'Level1Bg1': 3,
@@ -129,14 +129,14 @@ PLAYER_KEY_SHOOT = {'Player1': pygame.K_SPACE,
                     'Player2': pygame.K_LCTRL}
 
 # S
-SPAWN_TIME = 4000
+SPAWN_TIME = 4000 # Tempo de aparecimento dos inimigos
 
 # T
 TIMEOUT_STEP = 100  # 100ms
 TIMEOUT_LEVEL = 20000  # 20s
 # W
-WIN_WIDTH = 576
-WIN_HEIGHT = 324
+WIN_WIDTH = 576  # Largura da janela
+WIN_HEIGHT = 324  # Altura da janela
 
 # S
 SCORE_POS = {'Title': (WIN_WIDTH / 2, 50),

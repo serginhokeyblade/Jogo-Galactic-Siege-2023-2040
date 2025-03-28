@@ -34,8 +34,8 @@ class Game:
             elif menu_return == MENU_OPTION[3]:
                 score.show()
             elif menu_return == MENU_OPTION[4]:
-                pygame.quit()  # Close Window
-                quit()  # end pygame
+                pygame.quit()  # Fecha janela
+                quit()  # encerra o pygame
             else:
                 pygame.quit()
                 sys.exit()
